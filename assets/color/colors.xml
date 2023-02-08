@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary" type="material material-accent">#912CEE</color>
+    <color name="secondary" type="material material-accent">#FF83FA</color>
+    <color name="lightBgColor" type="material material-accent">#F2F4FC</color>
+    <color name="darkBgColor" type="material material-accent">#EBEDFA</color>
+    <color name="badgeColor" type="material material-accent">#EE376E</color>
+    <color name="greyColor" type="material material-accent">#879382</color>
+    <color name="whiteColor" type="material material-accent">#FFFFFF</color>
+    <color name="titleColor" type="material material-accent">#30384D</color>
+    <color name="textColor" type="material material-accent">#4D5875</color>
+</resources>
